@@ -15,6 +15,9 @@ The project investigates how well different text representation and modelling st
 
 This project was also submitted to a private Kaggle competition for the same Google Maps review classification task, involving Heriot-Watt Malaysia and Dubai teams across both undergraduate and postgraduate groups. All teams competed to submit the best-performing model predictions on an unknown test set, and our best-performing model prediction submission finished 3rd place overall on the final leaderboard and 1st place among the Malaysia teams.
 
+## Google Colab Notebook Link (For better viewing experience/ If notebook is not rendering properly on GitHub)
+- https://colab.research.google.com/drive/1iDEka4pZiUlt9PnGD0-ADztZzoDq-Yow?usp=sharing
+
 ## Raw and Preprocessed Datasets
 
 - https://drive.google.com/drive/folders/19_ePrUNbHPLyq41sEIpnKIvqM3nQYok3?usp=sharing
