@@ -4,7 +4,7 @@ Project repository for a multi-class text classification project on Google Maps 
 
 ## Repository Contents
 
-- [Google_map_review_star_rating_classifier.ipynb](Google_map_review_star_rating_classifier.ipynb)
+- [Google_Maps_Review_Star_Rating_Classifier.ipynb](Google_Maps_Review_Star_Rating_Classifier.ipynb)
 - This README
 
 ## Project Summary
